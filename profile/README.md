@@ -45,3 +45,6 @@ Definimos los siguientes requerimientos funcionales
 4. SQAP 
 5. Documentación base (SRS) 
 6. Plan de proyecto
+
+## Solicitud de Cambios
+https://tecmx.sharepoint.com/:x:/s/EquipoMoradoDesarollodeSoftware/ESN18xttQHRHtNjZcaHA2TIBbYpnLpY-4YS7uq7E8W6VOA?e=62uCGK
